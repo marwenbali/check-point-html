@@ -1,0 +1,44 @@
+div > p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    
+}
+H1 { 
+    color: rgb(51, 95, 153);
+      font-style: oblique;
+      text-align: center;
+      font-size: 40px;
+      
+}
+p {
+    color: darkblue;
+      font: small;
+
+}
+.title{
+    color : rgb(255, 153, 0);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+label{
+    color :rgb(143, 24, 207);
+    font-style: oblique;
+    font-weight: 900;
+
+}
+h4 {
+    font-size: 21px;
+    color : rgb(33, 165, 0)
+
+}
+dt {
+    color: brown;
+    font-size: 17px ;
+    font-weight: bold;
+}
+dd {
+    color: burlywood;
+}
